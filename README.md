@@ -1,5 +1,6 @@
 # Godot Cloud Save Tutorial Example
-This is an example of Godot Cloud Save using SilentWolf (https://silentwolf.com/).
+This is an example of Godot (https://godotengine.org/) Cloud Save using SilentWolf (https://silentwolf.com/).
+YouTube tutorial: https://youtu.be/nSzL0q9BnEA
 
 ### Instructions
 1. Download or clone the project to your computer.
